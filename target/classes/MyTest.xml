@@ -1,0 +1,10 @@
+<!-- test-suite.xml -->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MyTestSuite">
+    <test name="MyTest">
+        <classes>
+            <class name="com.example.deliveryservice.DeliveryServiceApplicationTests"/>
+            <!-- Add more test classes here -->
+        </classes>
+    </test>
+</suite>
